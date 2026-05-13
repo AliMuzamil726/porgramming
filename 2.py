@@ -7,7 +7,7 @@ from datetime import datetime
 import csv
 import os
 import shutil
-
+#ali
 
 class BloodManagementSystem:
     def __init__(self, root):
